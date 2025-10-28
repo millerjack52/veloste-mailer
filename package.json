@@ -1,9 +1,9 @@
 {
-"name": "veloste-mailer",
-"private": true,
-"engines": { "node": ">=18" },
-"dependencies": {
-"nodemailer": "^6.9.14",
-"zod": "^3.23.8"
-}
+  "name": "veloste-mailer",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "nodemailer": "^6.9.14",
+    "zod": "^3.23.8"
+  }
 }
