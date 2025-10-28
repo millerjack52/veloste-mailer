@@ -1,9 +1,3 @@
 {
-"functions": {
-"api/contact.js": {
-"runtime": "nodejs20.x",
-"memory": 128,
-"maxDuration": 10
-}
-}
+  "version": 2
 }
